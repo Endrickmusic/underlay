@@ -13,8 +13,12 @@
     "@react-three/drei": "^9.88.17",
     "@react-three/fiber": "^8.15.11",
     "install": "^0.13.0",
+    "node": "^21.2.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.0",
+    "styled-components": "5.3.5",
+    "three": "0.139.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
